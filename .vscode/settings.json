@@ -1,0 +1,8 @@
+{
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "explorer.excludeGitIgnore": false,
+    "git.confirmEmptyCommits": true,
+    "git.confirmSync": true,
+    "git.requireGitUserConfig": true
+}
